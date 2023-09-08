@@ -1,0 +1,11 @@
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\BUS\bin\Debug\BUS.dll
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\BUS\bin\Debug\BUS.pdb
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\BUS\bin\Debug\DAL.dll
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\BUS\bin\Debug\DTO.dll
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\BUS\bin\Debug\DAL.pdb
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\BUS\bin\Debug\DTO.pdb
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\BUS\obj\Debug\BUS.dll
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\BUS\obj\Debug\BUS.pdb

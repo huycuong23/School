@@ -1,0 +1,141 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+* {
+  box-sizing: border-box;
+  user-select: none;
+}
+:root {
+  --primary-color: #762202;
+}
+.main {
+  width: 980px;
+  margin: auto;
+}
+.header {
+  height: 150px;
+  background-color: var(--primary-color);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.menu {
+  margin-top: 33px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.menu-left {
+  height: 303px;
+  width: 481px;
+}
+.menu-right {
+  height: 290px;
+  width: 423px;
+  background-color: var(--primary-color);
+  border: 1px solid red;
+}
+.item-text {
+  display: none;
+  animation: 1s title linear;
+}
+.item-text h1 {
+  color: white;
+  font-size: 25px;
+  padding-left: 10px;
+}
+.item-text p {
+  color: wheat;
+  font-size: 17px;
+  padding: 10px;
+}
+.item-text a {
+  color: wheat;
+  padding-left: 320px;
+}
+.main-web {
+  height: 317px;
+  margin-top: 22px;
+}
+.main-web h1 {
+  padding-top: 26px;
+  padding-bottom: 36px;
+  color: #d7a304;
+}
+.main-web table {
+  width: 956px;
+  height: 142px;
+}
+.footer {
+  height: 49px;
+  background-color: var(--primary-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  margin-top: 50px;
+  font-size: 14px;
+  text-transform: uppercase;
+}
+.menu-left img {
+  margin-top: 5px;
+  height: 295px;
+  width: 480px;
+  animation: 1s slide linear;
+}
+.center_option {
+  padding: 0;
+  cursor: pointer;
+  display: flex;
+  flex-direction: column;
+}
+.center_option .center_option_item {
+  list-style: none;
+  margin: 0;
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background-color: var(--primary-color);
+  margin-bottom: 10px;
+  font-weight: 700;
+  color: yellow;
+  text-align: center;
+  line-height: 48px;
+  cursor: pointer;
+  border: 0;
+}
+.menu-left__img {
+  display: none;
+}
+.active {
+  display: block;
+}
+@keyframes slide {
+    0% {
+        opacity: 0.2;
+        transform: translateX(-5%);
+    }
+    50%{
+        opacity: 0.7;
+        transform: translateX(-2.5%);
+    }
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+@keyframes title {
+  0% {
+      opacity: 0.2;
+      transform: translateX(5%);
+  }
+  50%{
+      opacity: 0.7;
+      transform: translateX(2.5%);
+  }
+  100% {
+      opacity: 1;
+      transform: translateX(0);
+  }
+}

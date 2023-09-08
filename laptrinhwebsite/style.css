@@ -1,0 +1,47 @@
+body {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: border-box;
+    background-size: 100vw 100vw;
+  background-image: url(https://media.istockphoto.com/id/1287148666/vector/pastel-abstract-shapes-background.jpg?s=612x612&w=0&k=20&c=GJ9SIGnm8LW1ToQFlBchCBy-TZbGxF178dmTgYePM6o=);
+}
+li {
+  font-style: italic;
+}
+img {
+  width: 300px;
+  height: 200px;
+}
+#mau1 {
+  vertical-align: middle;
+  text-align: center;
+  text-decoration: underline;
+}
+.mau2 {
+  display: flex;
+  margin: auto;
+  color: red;
+  font-weight: bold;
+  font-style: italic;
+}
+.mau3 {
+  text-transform: uppercase;
+}
+form {
+    font-size: 28px;
+}
+form input, form select {
+    font-size: 28px;
+    height: 30px;
+}
+button {
+    font-size: 28px;
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+p {
+    padding: 10px;
+}

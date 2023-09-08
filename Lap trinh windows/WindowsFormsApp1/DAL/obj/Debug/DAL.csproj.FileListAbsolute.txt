@@ -1,0 +1,9 @@
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DAL\bin\Debug\DAL.dll
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DAL\bin\Debug\DAL.pdb
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DAL\bin\Debug\DTO.dll
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DAL\bin\Debug\DTO.pdb
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DAL\obj\Debug\DAL.dll
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DAL\obj\Debug\DAL.pdb

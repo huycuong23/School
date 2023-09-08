@@ -1,0 +1,10 @@
+D:\Workspace\SCHOOL\Lap trinh windows\thuc hanh 1\thuc hanh 1\bin\Debug\thuc hanh 1.exe.config
+D:\Workspace\SCHOOL\Lap trinh windows\thuc hanh 1\thuc hanh 1\bin\Debug\thuc hanh 1.exe
+D:\Workspace\SCHOOL\Lap trinh windows\thuc hanh 1\thuc hanh 1\bin\Debug\thuc hanh 1.pdb
+D:\Workspace\SCHOOL\Lap trinh windows\thuc hanh 1\thuc hanh 1\obj\Debug\thuc hanh 1.csproj.AssemblyReference.cache
+D:\Workspace\SCHOOL\Lap trinh windows\thuc hanh 1\thuc hanh 1\obj\Debug\thuc_hanh_1.Form1.resources
+D:\Workspace\SCHOOL\Lap trinh windows\thuc hanh 1\thuc hanh 1\obj\Debug\thuc_hanh_1.Properties.Resources.resources
+D:\Workspace\SCHOOL\Lap trinh windows\thuc hanh 1\thuc hanh 1\obj\Debug\thuc hanh 1.csproj.GenerateResource.cache
+D:\Workspace\SCHOOL\Lap trinh windows\thuc hanh 1\thuc hanh 1\obj\Debug\thuc hanh 1.csproj.CoreCompileInputs.cache
+D:\Workspace\SCHOOL\Lap trinh windows\thuc hanh 1\thuc hanh 1\obj\Debug\thuc hanh 1.exe
+D:\Workspace\SCHOOL\Lap trinh windows\thuc hanh 1\thuc hanh 1\obj\Debug\thuc hanh 1.pdb

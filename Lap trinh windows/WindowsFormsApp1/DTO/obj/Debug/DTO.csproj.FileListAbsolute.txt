@@ -1,0 +1,6 @@
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DTO\bin\Debug\DTO.dll
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DTO\bin\Debug\DTO.pdb
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DTO\obj\Debug\DTO.dll
+D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\DTO\obj\Debug\DTO.pdb

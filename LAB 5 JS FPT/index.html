@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Document</title>
+  </head>
+  <body>
+    <div class="main">
+      <div class="header">
+        <img src="/images/LOGO.png" alt="" />
+      </div>
+      <div class="menu">
+        <div class="menu-left">
+          <img
+            data-index="1"
+            class="menu-left__img active"
+            src="./images/BANH1.jpg"
+            alt=""
+          />
+          <img
+            data-index="2"
+            class="menu-left__img"
+            src="./images/BANH2.jpg"
+            alt=""
+          />
+          <img
+            data-index="3"
+            class="menu-left__img"
+            src="./images/BANH3.jpg"
+            alt=""
+          />
+        </div>
+        <div class="menu-center">
+          <ul class="center_option">
+            <button onclick="changer(1)" class="center_option_item">1</button>
+            <button onclick="changer(2)" class="center_option_item">2</button>
+            <button onclick="changer(3)" class="center_option_item">3</button>
+          </ul>
+        </div>
+        <div class="menu-right">
+          <div data-index="1" class="item-text active">
+            <h1>Bánh Bông lan Pháp La Pomme</h1>
+            <p>
+              banh bong lan thom ngon
+            </p>
+            <a href="#">Chi tiết...</a>
+          </div>
+          <div data-index="2" class="item-text">
+            <h1>Nước hoa quả Pháp La Pomme</h1>
+            <p>
+              tra sưa nuoc ep hoa qua ngot nuoc
+            </p>
+            <a href="#">Chi tiết...</a>
+          </div>
+          <div data-index="3" class="item-text">
+            <h1>Bánh Ngọt Pháp La Pomme</h1>
+            <p>
+              banh ngot an rat la ngot thom ngon co the an no duoc
+            </p>
+            <a href="#">Chi tiết...</a>
+          </div>
+        </div>
+      </div>
+      <div class="main-web">
+        <h1>ĐƠN HÀNG MUA NHANH</h1>
+        <table border="1">
+          <tr>
+            <td>STT</td>
+            <td>Tên SP</td>
+            <td>Giá</td>
+            <td>Số lượng</td>
+            <td>Thành tiền</td>
+          </tr>
+          <tr>
+            <td>1</td>
+            <td>Bánh ngọt</td>
+            <td>300.000vnd</td>
+            <td>1</td>
+            <td>300000</td>
+          </tr>
+          <tr>
+            <td>2</td>
+            <td>Kem Socola</td>
+            <td>50.000vnd</td>
+            <td>1</td>
+            <td>50000</td>
+          </tr>
+          <tr>
+            <td colspan="4">Tổng tiền</td>
+            <td>350000</td>
+          </tr>
+        </table>
+      </div>
+      <div class="footer">ndjanskjdnaklnsdansll</div>
+    </div>
+    <script src="logic.js"></script>
+  </body>
+</html>
