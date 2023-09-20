@@ -1,0 +1,39 @@
+C:\Users\minhius23\source\repos\Excel\Excel\obj\Debug\Excel.csproj.AssemblyReference.cache
+C:\Users\minhius23\source\repos\Excel\Excel\obj\Debug\Excel.Form1.resources
+C:\Users\minhius23\source\repos\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+C:\Users\minhius23\source\repos\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+C:\Users\minhius23\source\repos\Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+C:\Users\minhius23\source\repos\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\minhius23\source\repos\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\minhius23\source\repos\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\minhius23\source\repos\Excel\Excel\bin\Debug\EPPlus.dll
+C:\Users\minhius23\source\repos\Excel\Excel\bin\Debug\EPPlus.xml
+C:\Users\minhius23\source\repos\Excel\Excel\obj\Debug\Excel.csproj.CopyComplete
+C:\Users\minhius23\source\repos\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\minhius23\source\repos\Excel\Excel\obj\Debug\Excel.pdb
+C:\Users\cacbu\Documents\Zalo Received Files\Excel\Excel\bin\Debug\Excel.exe.config
+C:\Users\cacbu\Documents\Zalo Received Files\Excel\Excel\bin\Debug\Excel.exe
+C:\Users\cacbu\Documents\Zalo Received Files\Excel\Excel\bin\Debug\Excel.pdb
+C:\Users\cacbu\Documents\Zalo Received Files\Excel\Excel\bin\Debug\EPPlus.dll
+C:\Users\cacbu\Documents\Zalo Received Files\Excel\Excel\bin\Debug\EPPlus.xml
+C:\Users\cacbu\Documents\Zalo Received Files\Excel\Excel\obj\Debug\Excel.csproj.AssemblyReference.cache
+C:\Users\cacbu\Documents\Zalo Received Files\Excel\Excel\obj\Debug\Excel.Form1.resources
+C:\Users\cacbu\Documents\Zalo Received Files\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+C:\Users\cacbu\Documents\Zalo Received Files\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+C:\Users\cacbu\Documents\Zalo Received Files\Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+C:\Users\cacbu\Documents\Zalo Received Files\Excel\Excel\obj\Debug\Excel.csproj.CopyComplete
+C:\Users\cacbu\Documents\Zalo Received Files\Excel\Excel\obj\Debug\Excel.exe
+C:\Users\cacbu\Documents\Zalo Received Files\Excel\Excel\obj\Debug\Excel.pdb
+D:\Workspace\School\Lap trinh windows\Excel\Excel\bin\Debug\Excel.exe.config
+D:\Workspace\School\Lap trinh windows\Excel\Excel\bin\Debug\Excel.exe
+D:\Workspace\School\Lap trinh windows\Excel\Excel\bin\Debug\Excel.pdb
+D:\Workspace\School\Lap trinh windows\Excel\Excel\bin\Debug\EPPlus.dll
+D:\Workspace\School\Lap trinh windows\Excel\Excel\bin\Debug\EPPlus.xml
+D:\Workspace\School\Lap trinh windows\Excel\Excel\obj\Debug\Excel.csproj.AssemblyReference.cache
+D:\Workspace\School\Lap trinh windows\Excel\Excel\obj\Debug\Excel.Form1.resources
+D:\Workspace\School\Lap trinh windows\Excel\Excel\obj\Debug\Excel.Properties.Resources.resources
+D:\Workspace\School\Lap trinh windows\Excel\Excel\obj\Debug\Excel.csproj.GenerateResource.cache
+D:\Workspace\School\Lap trinh windows\Excel\Excel\obj\Debug\Excel.csproj.CoreCompileInputs.cache
+D:\Workspace\School\Lap trinh windows\Excel\Excel\obj\Debug\Excel.csproj.CopyComplete
+D:\Workspace\School\Lap trinh windows\Excel\Excel\obj\Debug\Excel.exe
+D:\Workspace\School\Lap trinh windows\Excel\Excel\obj\Debug\Excel.pdb
