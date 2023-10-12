@@ -1,0 +1,82 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Data.SqlClient;
+using System.Drawing;
+using System.Linq;
+using System.Security.Permissions;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using Microsoft.Reporting.WinForms;
+using Microsoft.ReportingServices.Diagnostics.Internal;
+using Microsoft.Reporting;
+
+namespace QuanLiTienNuoc
+{
+    public partial class ReportForm : Form
+    {
+        public ReportForm()
+        {
+            InitializeComponent();
+          
+
+        }
+        public SqlConnection con = new SqlConnection("Data Source=NguyenHuyCuong;Initial Catalog=QuanlyKH;Integrated Security=True");
+
+        
+
+        private void reportViewer1_Load(object sender, EventArgs e)
+        {
+
+        }
+        public DataTable LayDL(string sql)
+        {
+            SqlDataAdapter ad = new SqlDataAdapter(sql, con);
+            DataTable dt = new DataTable();
+            ad.Fill(dt);
+            return dt;
+        }
+        private void ReportForm_Load(object sender, EventArgs e)
+        {
+            DataTable dt = new DataTable();
+            dt = LayDL("select * from khachhang");
+            comboBox1.DataSource = dt;
+            comboBox1.ValueMember = "MaKH";
+            comboBox1.DisplayMember = "HoTen";
+            this.reportViewer1.RefreshReport();
+            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+
+            string sql = "Select * from khachhang";
+            DataTable dt = new DataTable(); dt = LayDL(sql);
+            reportViewer1.ProcessingMode = Microsoft.Reporting.WinForms.ProcessingMode.Local;
+            if (dt == null)
+            {
+                MessageBox.Show("failed");
+            }
+            else MessageBox.Show("ok");
+            //Phải chuột vào tên Report=> copy=> dán đường dẫn vào
+            reportViewer1.LocalReport.ReportPath = "D:\\QuanLiTienNuoc\\QuanLiTienNuoc\\In_QLTN.rdlc";
+            if (dt.Rows.Count > 0)
+            {
+                //Tạo nguồn dữ liệu cho báo cáo
+                ReportDataSource rds = new ReportDataSource();
+                rds.Name = "GiaDinh";
+                rds.Value = dt;
+                //Xóa dữ liệu của báo cáo cũ trong trường hợp người dùng thực hiện câu truy vấn khác
+                reportViewer1.LocalReport.DataSources.Clear();
+                //Add dữ liệu vào báo cáo
+                reportViewer1.LocalReport.DataSources.Add(rds);
+                //Refresh lại báo cáo
+                reportViewer1.RefreshReport();
+            }
+            else MessageBox.Show("Khong co du lieu");
+        }
+
+    }
+}

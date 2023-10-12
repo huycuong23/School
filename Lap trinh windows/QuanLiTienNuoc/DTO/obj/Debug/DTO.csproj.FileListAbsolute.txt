@@ -1,0 +1,186 @@
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\DTO.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\DTO.pdb
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\obj\Debug\DTO.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\obj\Debug\DTO.pdb
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\EnvDTE.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\stdole.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\IT\Visual Studio 2022\QuanLiTienNuoc\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\DTO.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\DTO.pdb
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\EnvDTE.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\stdole.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\obj\Debug\DTO.dll
+C:\Users\cacbu\Documents\Zalo Received Files\QuanLiTienNuoc (1)\DTO\obj\Debug\DTO.pdb
+D:\QuanLiTienNuoc\DTO\bin\Debug\x86\SqlServerSpatial160.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\x64\SqlServerSpatial160.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\DTO.dll.config
+D:\QuanLiTienNuoc\DTO\bin\Debug\DTO.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\DTO.pdb
+D:\QuanLiTienNuoc\DTO\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\EnvDTE.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\stdole.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLiTienNuoc\DTO\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+D:\QuanLiTienNuoc\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\QuanLiTienNuoc\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\QuanLiTienNuoc\DTO\obj\Debug\DTO.csproj.CopyComplete
+D:\QuanLiTienNuoc\DTO\obj\Debug\DTO.dll
+D:\QuanLiTienNuoc\DTO\obj\Debug\DTO.pdb
