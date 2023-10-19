@@ -1,0 +1,14 @@
+C:\Users\minhius23\source\repos\WS_CSDL\WS_CSDL\obj\Debug\WS_CSDL.csproj.AssemblyReference.cache
+C:\Users\minhius23\source\repos\WS_CSDL\WS_CSDL\obj\Debug\WS_CSDL.csproj.CoreCompileInputs.cache
+C:\Users\minhius23\source\repos\WS_CSDL\WS_CSDL\bin\WS_CSDL.dll.config
+C:\Users\minhius23\source\repos\WS_CSDL\WS_CSDL\bin\WS_CSDL.dll
+C:\Users\minhius23\source\repos\WS_CSDL\WS_CSDL\bin\WS_CSDL.pdb
+C:\Users\minhius23\source\repos\WS_CSDL\WS_CSDL\obj\Debug\WS_CSDL.dll
+C:\Users\minhius23\source\repos\WS_CSDL\WS_CSDL\obj\Debug\WS_CSDL.pdb
+D:\Workspace\School\Lap trinh windows\WS_CSDL\WS_CSDL\bin\WS_CSDL.dll.config
+D:\Workspace\School\Lap trinh windows\WS_CSDL\WS_CSDL\bin\WS_CSDL.dll
+D:\Workspace\School\Lap trinh windows\WS_CSDL\WS_CSDL\bin\WS_CSDL.pdb
+D:\Workspace\School\Lap trinh windows\WS_CSDL\WS_CSDL\obj\Debug\WS_CSDL.csproj.AssemblyReference.cache
+D:\Workspace\School\Lap trinh windows\WS_CSDL\WS_CSDL\obj\Debug\WS_CSDL.csproj.CoreCompileInputs.cache
+D:\Workspace\School\Lap trinh windows\WS_CSDL\WS_CSDL\obj\Debug\WS_CSDL.dll
+D:\Workspace\School\Lap trinh windows\WS_CSDL\WS_CSDL\obj\Debug\WS_CSDL.pdb

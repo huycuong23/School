@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" ID="57cb2f39-6ccc-4ec4-96c8-7c3fc7b60f97" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:52177/ICSDLService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="ICSDLService.wsdl" MetadataType="Wsdl" ID="bfaf5aa7-7c35-49f7-adcc-da742aaaecc2" SourceId="1" SourceUrl="http://localhost:52177/ICSDLService.svc?wsdl" />
+    <MetadataFile FileName="ICSDLService.xsd" MetadataType="Schema" ID="623239ea-ddeb-4089-99d3-212e05b421d5" SourceId="1" SourceUrl="http://localhost:52177/ICSDLService.svc?xsd=xsd1" />
+    <MetadataFile FileName="ICSDLService1.xsd" MetadataType="Schema" ID="958eae74-0d21-4c1b-b544-8293eb9979c1" SourceId="1" SourceUrl="http://localhost:52177/ICSDLService.svc?xsd=xsd2" />
+    <MetadataFile FileName="ICSDLService2.xsd" MetadataType="Schema" ID="e5c115c3-7948-4844-91ae-a2d3736482a2" SourceId="1" SourceUrl="http://localhost:52177/ICSDLService.svc?xsd=xsd0" />
+    <MetadataFile FileName="ICSDLService.disco" MetadataType="Disco" ID="5d377796-343b-487d-bb27-e540dd875eb8" SourceId="1" SourceUrl="http://localhost:52177/ICSDLService.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

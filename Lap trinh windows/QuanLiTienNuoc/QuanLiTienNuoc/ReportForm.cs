@@ -23,7 +23,7 @@ namespace QuanLiTienNuoc
           
 
         }
-        public SqlConnection con = new SqlConnection("Data Source=NguyenHuyCuong;Initial Catalog=QuanlyKH;Integrated Security=True");
+        public SqlConnection con = new SqlConnection("Data Source=NGUYENHUYCUONG;Initial Catalog=QLTN;Integrated Security=True");
 
         
 
@@ -41,10 +41,10 @@ namespace QuanLiTienNuoc
         private void ReportForm_Load(object sender, EventArgs e)
         {
             DataTable dt = new DataTable();
-            dt = LayDL("select * from khachhang");
+            dt = LayDL("select * from giadinh");
             comboBox1.DataSource = dt;
-            comboBox1.ValueMember = "MaKH";
-            comboBox1.DisplayMember = "HoTen";
+            comboBox1.ValueMember = "makhach";
+            comboBox1.DisplayMember = "makhach";
             this.reportViewer1.RefreshReport();
             
         }
@@ -52,16 +52,11 @@ namespace QuanLiTienNuoc
         private void button1_Click(object sender, EventArgs e)
         {
 
-            string sql = "Select * from khachhang";
+            string sql = "Select * from giadinh where makhach='" + comboBox1.Text + "'";
             DataTable dt = new DataTable(); dt = LayDL(sql);
             reportViewer1.ProcessingMode = Microsoft.Reporting.WinForms.ProcessingMode.Local;
-            if (dt == null)
-            {
-                MessageBox.Show("failed");
-            }
-            else MessageBox.Show("ok");
             //Phải chuột vào tên Report=> copy=> dán đường dẫn vào
-            reportViewer1.LocalReport.ReportPath = "D:\\QuanLiTienNuoc\\QuanLiTienNuoc\\In_QLTN.rdlc";
+            reportViewer1.LocalReport.ReportPath = "D:\\Workspace\\School\\Lap trinh windows\\QuanLiTienNuoc\\QuanLiTienNuoc\\In_QLTN.rdlc";
             if (dt.Rows.Count > 0)
             {
                 //Tạo nguồn dữ liệu cho báo cáo

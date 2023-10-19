@@ -6,21 +6,21 @@
         <TablixBody>
           <TablixColumns>
             <TablixColumn>
-              <Width>2.5cm</Width>
+              <Width>3.98696cm</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>2.5cm</Width>
+              <Width>3.98696cm</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>2.5cm</Width>
+              <Width>3.98696cm</Width>
             </TablixColumn>
             <TablixColumn>
-              <Width>2.5cm</Width>
+              <Width>3.98696cm</Width>
             </TablixColumn>
           </TablixColumns>
           <TablixRows>
             <TablixRow>
-              <Height>0.6cm</Height>
+              <Height>1.18208cm</Height>
               <TablixCells>
                 <TablixCell>
                   <CellContents>
@@ -145,25 +145,25 @@
               </TablixCells>
             </TablixRow>
             <TablixRow>
-              <Height>0.6cm</Height>
+              <Height>1.18208cm</Height>
               <TablixCells>
                 <TablixCell>
                   <CellContents>
-                    <Textbox Name="MaKH">
+                    <Textbox Name="makhach">
                       <CanGrow>true</CanGrow>
                       <KeepTogether>true</KeepTogether>
                       <Paragraphs>
                         <Paragraph>
                           <TextRuns>
                             <TextRun>
-                              <Value>=Fields!MaKH.Value</Value>
+                              <Value>=Fields!makhach.Value</Value>
                               <Style />
                             </TextRun>
                           </TextRuns>
                           <Style />
                         </Paragraph>
                       </Paragraphs>
-                      <rd:DefaultName>MaKH</rd:DefaultName>
+                      <rd:DefaultName>makhach</rd:DefaultName>
                       <Style>
                         <Border>
                           <Color>LightGrey</Color>
@@ -179,21 +179,21 @@
                 </TablixCell>
                 <TablixCell>
                   <CellContents>
-                    <Textbox Name="HoTen">
+                    <Textbox Name="tenkhach">
                       <CanGrow>true</CanGrow>
                       <KeepTogether>true</KeepTogether>
                       <Paragraphs>
                         <Paragraph>
                           <TextRuns>
                             <TextRun>
-                              <Value>=Fields!HoTen.Value</Value>
+                              <Value>=Fields!tenkhach.Value</Value>
                               <Style />
                             </TextRun>
                           </TextRuns>
                           <Style />
                         </Paragraph>
                       </Paragraphs>
-                      <rd:DefaultName>HoTen</rd:DefaultName>
+                      <rd:DefaultName>tenkhach</rd:DefaultName>
                       <Style>
                         <Border>
                           <Color>LightGrey</Color>
@@ -291,9 +291,9 @@
         </TablixRowHierarchy>
         <DataSetName>GiaDinh</DataSetName>
         <Top>0.92287cm</Top>
-        <Left>2.03412cm</Left>
-        <Height>1.2cm</Height>
-        <Width>10cm</Width>
+        <Left>0.27729cm</Left>
+        <Height>2.36417cm</Height>
+        <Width>15.94783cm</Width>
         <Style>
           <Border>
             <Style>None</Style>
@@ -332,12 +332,12 @@
         <CommandText>/* Local Query */</CommandText>
       </Query>
       <Fields>
-        <Field Name="MaKH">
-          <DataField>MaKH</DataField>
+        <Field Name="makhach">
+          <DataField>makhach</DataField>
           <rd:TypeName>System.String</rd:TypeName>
         </Field>
-        <Field Name="HoTen">
-          <DataField>HoTen</DataField>
+        <Field Name="tenkhach">
+          <DataField>tenkhach</DataField>
           <rd:TypeName>System.String</rd:TypeName>
         </Field>
         <Field Name="SoDienThoai">
@@ -351,7 +351,7 @@
       </Fields>
       <rd:DataSetInfo>
         <rd:DataSetName>DataSet1</rd:DataSetName>
-        <rd:SchemaPath>D:\IT\Visual Studio 2022\QuanLiTienNuoc\QuanLiTienNuoc\QLTN.xsd</rd:SchemaPath>
+        <rd:SchemaPath>D:\Workspace\School\Lap trinh windows\QuanLiTienNuoc\QuanLiTienNuoc\QLTN.xsd</rd:SchemaPath>
         <rd:TableName>DataTable1</rd:TableName>
         <rd:TableAdapterFillMethod />
         <rd:TableAdapterGetDataMethod />

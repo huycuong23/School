@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WS_CSDL.ICSDLService" CodeBehind="ICSDLService.svc.cs" %>

@@ -12,9 +12,8 @@ namespace Excel
 
         SqlConnection con = new SqlConnection("Data Source=NguyenHuyCuong;Initial Catalog=QLSV;Integrated Security=True");
         //view
-        public DataTable view(string Txtlop)
+        public DataTable view(string sql)
         {
-            string sql = "select * from sinhvien where Lop ='" + Txtlop + "'";
             con.Open();
             SqlCommand cmd = new SqlCommand(sql, con);
             SqlDataReader read = cmd.ExecuteReader();

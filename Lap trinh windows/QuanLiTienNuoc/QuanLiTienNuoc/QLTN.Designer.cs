@@ -279,9 +279,9 @@ namespace QuanLiTienNuoc {
         [global::System.Xml.Serialization.XmlSchemaProviderAttribute("GetTypedTableSchema")]
         public partial class DataTable1DataTable : global::System.Data.TypedTableBase<DataTable1Row> {
             
-            private global::System.Data.DataColumn columnMaKH;
+            private global::System.Data.DataColumn columnmakhach;
             
-            private global::System.Data.DataColumn columnHoTen;
+            private global::System.Data.DataColumn columntenkhach;
             
             private global::System.Data.DataColumn columnSoDienThoai;
             
@@ -322,17 +322,17 @@ namespace QuanLiTienNuoc {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public global::System.Data.DataColumn MaKHColumn {
+            public global::System.Data.DataColumn makhachColumn {
                 get {
-                    return this.columnMaKH;
+                    return this.columnmakhach;
                 }
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public global::System.Data.DataColumn HoTenColumn {
+            public global::System.Data.DataColumn tenkhachColumn {
                 get {
-                    return this.columnHoTen;
+                    return this.columntenkhach;
                 }
             }
             
@@ -389,11 +389,11 @@ namespace QuanLiTienNuoc {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public DataTable1Row AddDataTable1Row(string MaKH, string HoTen, string SoDienThoai, string DiaChi) {
+            public DataTable1Row AddDataTable1Row(string makhach, string tenkhach, string SoDienThoai, string DiaChi) {
                 DataTable1Row rowDataTable1Row = ((DataTable1Row)(this.NewRow()));
                 object[] columnValuesArray = new object[] {
-                        MaKH,
-                        HoTen,
+                        makhach,
+                        tenkhach,
                         SoDienThoai,
                         DiaChi};
                 rowDataTable1Row.ItemArray = columnValuesArray;
@@ -418,8 +418,8 @@ namespace QuanLiTienNuoc {
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             internal void InitVars() {
-                this.columnMaKH = base.Columns["MaKH"];
-                this.columnHoTen = base.Columns["HoTen"];
+                this.columnmakhach = base.Columns["makhach"];
+                this.columntenkhach = base.Columns["tenkhach"];
                 this.columnSoDienThoai = base.Columns["SoDienThoai"];
                 this.columnDiaChi = base.Columns["DiaChi"];
             }
@@ -427,10 +427,10 @@ namespace QuanLiTienNuoc {
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
             private void InitClass() {
-                this.columnMaKH = new global::System.Data.DataColumn("MaKH", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.columnMaKH);
-                this.columnHoTen = new global::System.Data.DataColumn("HoTen", typeof(string), null, global::System.Data.MappingType.Element);
-                base.Columns.Add(this.columnHoTen);
+                this.columnmakhach = new global::System.Data.DataColumn("makhach", typeof(string), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnmakhach);
+                this.columntenkhach = new global::System.Data.DataColumn("tenkhach", typeof(string), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columntenkhach);
                 this.columnSoDienThoai = new global::System.Data.DataColumn("SoDienThoai", typeof(string), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.columnSoDienThoai);
                 this.columnDiaChi = new global::System.Data.DataColumn("DiaChi", typeof(string), null, global::System.Data.MappingType.Element);
@@ -577,33 +577,33 @@ namespace QuanLiTienNuoc {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public string MaKH {
+            public string makhach {
                 get {
                     try {
-                        return ((string)(this[this.tableDataTable1.MaKHColumn]));
+                        return ((string)(this[this.tableDataTable1.makhachColumn]));
                     }
                     catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'MaKH\' in table \'DataTable1\' is DBNull.", e);
+                        throw new global::System.Data.StrongTypingException("The value for column \'makhach\' in table \'DataTable1\' is DBNull.", e);
                     }
                 }
                 set {
-                    this[this.tableDataTable1.MaKHColumn] = value;
+                    this[this.tableDataTable1.makhachColumn] = value;
                 }
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public string HoTen {
+            public string tenkhach {
                 get {
                     try {
-                        return ((string)(this[this.tableDataTable1.HoTenColumn]));
+                        return ((string)(this[this.tableDataTable1.tenkhachColumn]));
                     }
                     catch (global::System.InvalidCastException e) {
-                        throw new global::System.Data.StrongTypingException("The value for column \'HoTen\' in table \'DataTable1\' is DBNull.", e);
+                        throw new global::System.Data.StrongTypingException("The value for column \'tenkhach\' in table \'DataTable1\' is DBNull.", e);
                     }
                 }
                 set {
-                    this[this.tableDataTable1.HoTenColumn] = value;
+                    this[this.tableDataTable1.tenkhachColumn] = value;
                 }
             }
             
@@ -641,26 +641,26 @@ namespace QuanLiTienNuoc {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public bool IsMaKHNull() {
-                return this.IsNull(this.tableDataTable1.MaKHColumn);
+            public bool IsmakhachNull() {
+                return this.IsNull(this.tableDataTable1.makhachColumn);
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public void SetMaKHNull() {
-                this[this.tableDataTable1.MaKHColumn] = global::System.Convert.DBNull;
+            public void SetmakhachNull() {
+                this[this.tableDataTable1.makhachColumn] = global::System.Convert.DBNull;
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public bool IsHoTenNull() {
-                return this.IsNull(this.tableDataTable1.HoTenColumn);
+            public bool IstenkhachNull() {
+                return this.IsNull(this.tableDataTable1.tenkhachColumn);
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "17.0.0.0")]
-            public void SetHoTenNull() {
-                this[this.tableDataTable1.HoTenColumn] = global::System.Convert.DBNull;
+            public void SettenkhachNull() {
+                this[this.tableDataTable1.tenkhachColumn] = global::System.Convert.DBNull;
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]

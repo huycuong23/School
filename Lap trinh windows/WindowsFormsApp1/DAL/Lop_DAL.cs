@@ -9,23 +9,23 @@ using System.Threading.Tasks;
 namespace DAL
 {
     public class Lop_DAL:connect {
-        public DataTable Load_Lop()
+        public DataTable Load_SP()
         {
-            return Load_DL("select * from Lop");
+            return Load_DL("select masp, tensp, dvt, gia from sanpham");
         }
-        public void Insert_Lop(Lop ob)
+        public void Insert_SP(Sanpham ob)
         {
-            string sql = "insert into Lop values('" + ob.Malop + "','" + ob.Tenlop + "')";
+            string sql = "insert into sanpham values('" + ob.Masp + "','" + ob.Tensp +","+ ob.DVT+ "," + ob.Gia +"')";
             Execute(sql);
         }
-        public void Update_Lop(Lop ob)
+        public void Update_SP(Sanpham ob)
         {
-            string sql = "update Lop set tenlop='" + ob.Tenlop + "'" + "Where malop='" + ob.Malop + "'";
+            string sql = "update sanpham set tensp='" + ob.Tensp +"'"+ "Where masp='" + ob.Masp + "'";
             Execute(sql);
         }
-        public void Delete_Lop(Lop ob)
+        public void Delete_SP(Sanpham ob)
         {
-            string sql = "delete from Lop Where malop='" + ob.Malop +"'";
+            string sql = "delete from sanpham Where Masp='" + ob.Masp +"'";
             Execute(sql);
         }
     }

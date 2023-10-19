@@ -1,0 +1,10 @@
+D:\Workspace\School\Lap trinh windows\FormWCFServices\FormWCFServices\bin\Debug\FormWCFServices.exe.config
+D:\Workspace\School\Lap trinh windows\FormWCFServices\FormWCFServices\bin\Debug\FormWCFServices.exe
+D:\Workspace\School\Lap trinh windows\FormWCFServices\FormWCFServices\bin\Debug\FormWCFServices.pdb
+D:\Workspace\School\Lap trinh windows\FormWCFServices\FormWCFServices\obj\Debug\FormWCFServices.csproj.AssemblyReference.cache
+D:\Workspace\School\Lap trinh windows\FormWCFServices\FormWCFServices\obj\Debug\FormWCFServices.Properties.Resources.resources
+D:\Workspace\School\Lap trinh windows\FormWCFServices\FormWCFServices\obj\Debug\FormWCFServices.csproj.GenerateResource.cache
+D:\Workspace\School\Lap trinh windows\FormWCFServices\FormWCFServices\obj\Debug\FormWCFServices.csproj.CoreCompileInputs.cache
+D:\Workspace\School\Lap trinh windows\FormWCFServices\FormWCFServices\obj\Debug\FormWCFServices.exe
+D:\Workspace\School\Lap trinh windows\FormWCFServices\FormWCFServices\obj\Debug\FormWCFServices.pdb
+D:\Workspace\School\Lap trinh windows\FormWCFServices\FormWCFServices\obj\Debug\FormWCFServices.Form1.resources

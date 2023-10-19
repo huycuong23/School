@@ -11,24 +11,24 @@ namespace BUS
 {
     public class Lop_BUS 
     {
-        Lop_DAL lop = new Lop_DAL();
+        Lop_DAL Sp = new Lop_DAL();
         public DataTable Load_BUS()
         {
-            return lop.Load_Lop();
+            return Sp.Load_SP();
 
         }
-        public void Insert_BUS(Lop ob)
+        public void Insert_BUS(Sanpham ob)
         {
-            lop.Insert_Lop(ob);
+            Sp.Insert_SP(ob);
 
         }
-        public void Update_BUS(Lop ob)
+        public void Update_BUS(Sanpham ob)
         {
-            lop.Update_Lop(ob);
+            Sp.Update_SP(ob);
         }
-        public void Delete_BUS(Lop ob)
+        public void Delete_BUS(Sanpham ob)
         {
-            lop.Delete_Lop(ob);
+            Sp.Delete_SP(ob);
 
         }
     }

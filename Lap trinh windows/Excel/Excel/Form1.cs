@@ -18,7 +18,7 @@ namespace Excel
         private void button1_Click(object sender, EventArgs e)
         {
             SinhVien ob = new SinhVien();
-            dataGridView1.DataSource = ob.view(Txtlop.Text);
+            dataGridView1.DataSource = ob.view("select * from sinhvien where Lop ='" + Txtlop.Text + "'");
 
         }
 
@@ -113,15 +113,10 @@ namespace Excel
 
             }
         }
-
-        private void label1_Click(object sender, EventArgs e)
+        private void button3_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void Tenlop_TextChanged(object sender, EventArgs e)
-        {
-
+            SinhVien ob = new SinhVien();
+            dataGridView1.DataSource = ob.view("select sinhvien.Masinhvien, sinhvien.Tensinhvien, sinhvien.Lop, diem.diem from sinhvien inner join diem on sinhvien.Masinhvien = diem.Masinhvien where diem < 4 and Lop ='" + Txtlop.Text + "'");
         }
     }
 }

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/WS_CSDL" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/WS_CSDL" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="BangLop">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="Malop" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="Tenlop" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="BangLop" nillable="true" type="tns:BangLop" />
+  <xs:complexType name="ArrayOfBangLop">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="BangLop" nillable="true" type="tns:BangLop" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfBangLop" nillable="true" type="tns:ArrayOfBangLop" />
+  <xs:complexType name="Bangmon">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="mamon" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="temon" nillable="true" type="xs:string" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="Bangmon" nillable="true" type="tns:Bangmon" />
+  <xs:complexType name="ArrayOfBangmon">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="Bangmon" nillable="true" type="tns:Bangmon" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfBangmon" nillable="true" type="tns:ArrayOfBangmon" />
+</xs:schema>

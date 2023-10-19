@@ -23,13 +23,13 @@ namespace DAL
         }
         public void Update_KH(khachhang ob)
         {
-            string sql = "update giadinh set hoten = '" + ob.tenkhach + "'" + "where makh = '" + ob.makhach + "'";
+            string sql = "update giadinh set tenkhach = '" + ob.tenkhach + "'" + "where makhach = '" + ob.makhach + "'";
             Excute(sql);
 
         }
         public void Delete_KH(khachhang ob)
         {
-            string sql = "delete from giadinh where makh='" + ob.makhach+"'";
+            string sql = "delete from giadinh where makhach='" + ob.makhach+"'";
             Excute(sql);
 
         }

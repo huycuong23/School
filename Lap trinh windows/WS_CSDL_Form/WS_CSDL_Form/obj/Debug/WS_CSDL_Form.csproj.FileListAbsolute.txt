@@ -1,0 +1,20 @@
+C:\Users\minhius23\source\repos\WS_CSDL_Form\WS_CSDL_Form\bin\Debug\WS_CSDL_Form.exe.config
+C:\Users\minhius23\source\repos\WS_CSDL_Form\WS_CSDL_Form\bin\Debug\WS_CSDL_Form.exe
+C:\Users\minhius23\source\repos\WS_CSDL_Form\WS_CSDL_Form\bin\Debug\WS_CSDL_Form.pdb
+C:\Users\minhius23\source\repos\WS_CSDL_Form\WS_CSDL_Form\obj\Debug\WS_CSDL_Form.csproj.AssemblyReference.cache
+C:\Users\minhius23\source\repos\WS_CSDL_Form\WS_CSDL_Form\obj\Debug\WS_CSDL_Form.Form1.resources
+C:\Users\minhius23\source\repos\WS_CSDL_Form\WS_CSDL_Form\obj\Debug\WS_CSDL_Form.Properties.Resources.resources
+C:\Users\minhius23\source\repos\WS_CSDL_Form\WS_CSDL_Form\obj\Debug\WS_CSDL_Form.csproj.GenerateResource.cache
+C:\Users\minhius23\source\repos\WS_CSDL_Form\WS_CSDL_Form\obj\Debug\WS_CSDL_Form.csproj.CoreCompileInputs.cache
+C:\Users\minhius23\source\repos\WS_CSDL_Form\WS_CSDL_Form\obj\Debug\WS_CSDL_Form.exe
+C:\Users\minhius23\source\repos\WS_CSDL_Form\WS_CSDL_Form\obj\Debug\WS_CSDL_Form.pdb
+D:\Workspace\School\Lap trinh windows\WS_CSDL_Form\WS_CSDL_Form\bin\Debug\WS_CSDL_Form.exe.config
+D:\Workspace\School\Lap trinh windows\WS_CSDL_Form\WS_CSDL_Form\bin\Debug\WS_CSDL_Form.exe
+D:\Workspace\School\Lap trinh windows\WS_CSDL_Form\WS_CSDL_Form\bin\Debug\WS_CSDL_Form.pdb
+D:\Workspace\School\Lap trinh windows\WS_CSDL_Form\WS_CSDL_Form\obj\Debug\WS_CSDL_Form.csproj.AssemblyReference.cache
+D:\Workspace\School\Lap trinh windows\WS_CSDL_Form\WS_CSDL_Form\obj\Debug\WS_CSDL_Form.Form1.resources
+D:\Workspace\School\Lap trinh windows\WS_CSDL_Form\WS_CSDL_Form\obj\Debug\WS_CSDL_Form.Properties.Resources.resources
+D:\Workspace\School\Lap trinh windows\WS_CSDL_Form\WS_CSDL_Form\obj\Debug\WS_CSDL_Form.csproj.GenerateResource.cache
+D:\Workspace\School\Lap trinh windows\WS_CSDL_Form\WS_CSDL_Form\obj\Debug\WS_CSDL_Form.csproj.CoreCompileInputs.cache
+D:\Workspace\School\Lap trinh windows\WS_CSDL_Form\WS_CSDL_Form\obj\Debug\WS_CSDL_Form.exe
+D:\Workspace\School\Lap trinh windows\WS_CSDL_Form\WS_CSDL_Form\obj\Debug\WS_CSDL_Form.pdb

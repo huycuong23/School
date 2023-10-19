@@ -6,14 +6,18 @@ using System.Threading.Tasks;
 
 namespace DTO
 {
-    public class Lop
+    public class Sanpham
     {
-        public string Malop;
-        public string Tenlop;
-        public Lop() { }
-        public Lop(string malop, string tenlop) {
-            Malop = malop;
-            Tenlop = tenlop;
+        public string Masp;
+        public string Tensp;
+        public string DVT;
+        public string Gia;
+        public Sanpham() { }
+        public Sanpham(string Masp, string Tensp, string DVT, string Gia) {
+           this.Masp = Masp;
+            this.Tensp = Tensp;
+            this.DVT = DVT;
+            this.Gia = Gia;
         }
     }
 }

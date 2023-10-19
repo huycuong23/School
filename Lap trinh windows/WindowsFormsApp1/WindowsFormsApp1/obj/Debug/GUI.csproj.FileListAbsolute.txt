@@ -15,3 +15,5 @@ D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\WindowsFormsApp1\obj\Debu
 D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\GUI.csproj.CopyComplete
 D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
 D:\Workspace\SCHOOL\Lap trinh windows\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Workspace\School\Lap trinh windows\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EPPlus.dll
+D:\Workspace\School\Lap trinh windows\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\EPPlus.xml

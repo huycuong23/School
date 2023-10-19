@@ -11,7 +11,7 @@ namespace DAL
 {
     public class connect
     {
-        SqlConnection conn = new SqlConnection("Data Source=PC-MINHIUS\\HAMINHHIEU;Initial Catalog=QLTN;Integrated Security=True");
+        SqlConnection conn = new SqlConnection("Data Source=NGUYENHUYCUONG;Initial Catalog=QLTN;Integrated Security=True");
         public DataTable Load_KH(string sql)
         {
             conn.Open();
