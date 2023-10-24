@@ -13,7 +13,12 @@ namespace DAL
         public Lop_DAL() { }
         public DataTable Load_KH()
         {
-            string sql = "select * from giadinh";
+            string sql = "select * from hoadon";
+            return Load_KH(sql);
+        }
+        public DataTable Tinh()
+        {
+            string sql = "SELECT dbo.giadinh.makhach, dbo.giadinh.tenkhach, dbo.giadinh.sodienthoai, dbo.giadinh.diachi, dbo.HoaDon.chisomoi, dbo.HoaDon.chisocu, dbo.DonGia.DonGia\r\nFROM dbo.giadinh INNER JOIN\r\n dbo.HoaDon ON dbo.giadinh.makhach = dbo.HoaDon.makhach INNER JOIN\r\n dbo.DonGia ON dbo.HoaDon.mahoadon = dbo.DonGia.MaHoaDon";
             return Load_KH(sql);
         }
         public void Insert_KH(khachhang ob)

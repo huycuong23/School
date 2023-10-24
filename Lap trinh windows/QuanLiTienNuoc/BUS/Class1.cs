@@ -16,6 +16,10 @@ namespace BUS
         {
             return kh.Load_KH();
         }
+        public DataTable Tinh_Bus()
+        {
+            return kh.Tinh();
+        }
         public void Insert_Bus(khachhang ob)
         {
             kh.Insert_KH(ob);

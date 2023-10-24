@@ -12,15 +12,18 @@ namespace DTO
     {
         public string makhach;
         public string tenkhach;
-        public string diachi;
         public string sodienthoai;
+        public string diachi;
+        public string chisomoi;
+        public string chisocu;
+        public string tongtien;
         public khachhang() { }
-        public khachhang(string makhach, string tenkhach, string diachi, string sodienthoai)
+        public khachhang(string makhach, string tenkhach, string sodienthoai, string diachi)
         {
             this.makhach = makhach;
             this.tenkhach = tenkhach;
             this.diachi = diachi;
-            this.sodienthoai    = sodienthoai;
+            this.sodienthoai = sodienthoai;
         }    
     }
 }

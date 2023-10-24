@@ -53,7 +53,8 @@ namespace QuanLiTienNuoc
         {
 
             string sql = "Select * from giadinh where makhach='" + comboBox1.Text + "'";
-            DataTable dt = new DataTable(); dt = LayDL(sql);
+            DataTable dt = new DataTable();
+            dt = LayDL(sql);
             reportViewer1.ProcessingMode = Microsoft.Reporting.WinForms.ProcessingMode.Local;
             //Phải chuột vào tên Report=> copy=> dán đường dẫn vào
             reportViewer1.LocalReport.ReportPath = "D:\\Workspace\\School\\Lap trinh windows\\QuanLiTienNuoc\\QuanLiTienNuoc\\In_QLTN.rdlc";
