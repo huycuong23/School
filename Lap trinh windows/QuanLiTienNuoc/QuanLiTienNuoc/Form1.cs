@@ -49,6 +49,7 @@ namespace QuanLiTienNuoc
         {
             tinh = 0;
             dataGridView1.DataSource = khach.Load_Bus();
+            textBox6.Text = "";
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -233,6 +234,11 @@ namespace QuanLiTienNuoc
         {
             tinh = 1;
             dataGridView1.DataSource = khach.Tinh_Bus();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            textBox6.ReadOnly = true;
         }
     }
 }

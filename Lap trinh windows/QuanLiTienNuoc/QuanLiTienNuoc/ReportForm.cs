@@ -52,7 +52,7 @@ namespace QuanLiTienNuoc
         private void button1_Click(object sender, EventArgs e)
         {
 
-            string sql = "Select * from giadinh where makhach='" + comboBox1.Text + "'";
+            string sql = "SELECT dbo.giadinh.makhach, dbo.giadinh.tenkhach, dbo.giadinh.sodienthoai, dbo.giadinh.diachi, dbo.HoaDon.chisomoi, dbo.HoaDon.chisocu, dbo.DonGia.DonGia\r\nFROM dbo.giadinh INNER JOIN\r\n dbo.HoaDon ON dbo.giadinh.makhach = dbo.HoaDon.makhach INNER JOIN\r\n dbo.DonGia ON dbo.HoaDon.mahoadon = dbo.DonGia.MaHoaDon where dbo.giadinh.makhach='" + comboBox1.Text + "'";
             DataTable dt = new DataTable();
             dt = LayDL(sql);
             reportViewer1.ProcessingMode = Microsoft.Reporting.WinForms.ProcessingMode.Local;

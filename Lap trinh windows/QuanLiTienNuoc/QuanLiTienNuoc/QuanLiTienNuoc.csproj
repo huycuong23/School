@@ -80,6 +80,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="QLTN.cs">
+      <DependentUpon>QLTN.xsd</DependentUpon>
+    </Compile>
     <Compile Include="QLTN.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
