@@ -228,12 +228,21 @@ namespace QuanLiTienNuoc
             {
                 e.Graphics.DrawString((e.RowIndex + 1).ToString(), e.InheritedRowStyle.Font, b, e.RowBounds.Location.X + 10, e.RowBounds.Location.Y + 4);
             }
+        
         }
 
         private void button6_Click(object sender, EventArgs e)
         {
             tinh = 1;
             dataGridView1.DataSource = khach.Tinh_Bus();
+            dataGridView1.Columns.Add("colunm", "tongtien");
+            for(int i = 0; i < dataGridView1.Rows.Count -1; i++)
+            {
+                int somoi = int.Parse(dataGridView1.Rows[i].Cells[4].Value.ToString());
+                int socu = int.Parse(dataGridView1.Rows[i].Cells[5].Value.ToString());
+                int dongia = int.Parse(dataGridView1.Rows[i].Cells[6].Value.ToString().Substring(0, dataGridView1.Rows[i].Cells[6].Value.ToString().IndexOf(".")));
+                dataGridView1.Rows[i].Cells[7].Value = ((somoi - socu) * dongia).ToString();
+            }
         }
 
         private void Form1_Load(object sender, EventArgs e)

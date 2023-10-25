@@ -55,6 +55,7 @@ namespace QuanLiTienNuoc
             string sql = "SELECT dbo.giadinh.makhach, dbo.giadinh.tenkhach, dbo.giadinh.sodienthoai, dbo.giadinh.diachi, dbo.HoaDon.chisomoi, dbo.HoaDon.chisocu, dbo.DonGia.DonGia\r\nFROM dbo.giadinh INNER JOIN\r\n dbo.HoaDon ON dbo.giadinh.makhach = dbo.HoaDon.makhach INNER JOIN\r\n dbo.DonGia ON dbo.HoaDon.mahoadon = dbo.DonGia.MaHoaDon where dbo.giadinh.makhach='" + comboBox1.Text + "'";
             DataTable dt = new DataTable();
             dt = LayDL(sql);
+            dt.Columns.Add("tongtien", typeof(string));
             reportViewer1.ProcessingMode = Microsoft.Reporting.WinForms.ProcessingMode.Local;
             //Phải chuột vào tên Report=> copy=> dán đường dẫn vào
             reportViewer1.LocalReport.ReportPath = "D:\\Workspace\\School\\Lap trinh windows\\QuanLiTienNuoc\\QuanLiTienNuoc\\In_QLTN.rdlc";

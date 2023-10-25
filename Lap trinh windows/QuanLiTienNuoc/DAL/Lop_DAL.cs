@@ -13,7 +13,7 @@ namespace DAL
         public Lop_DAL() { }
         public DataTable Load_KH()
         {
-            string sql = "select * from hoadon";
+            string sql = "select * from giadinh";
             return Load_KH(sql);
         }
         public DataTable Tinh()
