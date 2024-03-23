@@ -1,0 +1,54 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="maytinh_nguyenhuycuong.Site1" %>
+
+<%@ Register src="ucmenutrai.ascx" tagname="ucmenutrai" tagprefix="uc1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+        }
+        .auto-style2 {
+            width: 394px;
+        }
+        .auto-style3 {
+            width: 394px;
+            height: 26px;
+        }
+        .auto-style4 {
+            height: 26px;
+        }
+        .auto-style5 {
+            width: 489px;
+            height: 103px;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table class="auto-style1">
+                <tr>
+                    <td class="auto-style3"></td>
+                    <td class="auto-style4">
+                        <img alt="2" class="auto-style5" src="images/banner.jpg" /></td>
+                </tr>
+                <tr>
+                    <td class="auto-style2">
+                        <uc1:ucmenutrai ID="ucmenutrai1" runat="server" />
+                    </td>
+                    <td>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+                    </td>
+                </tr>
+            </table>
+        </div>
+    </form>
+</body>
+</html>

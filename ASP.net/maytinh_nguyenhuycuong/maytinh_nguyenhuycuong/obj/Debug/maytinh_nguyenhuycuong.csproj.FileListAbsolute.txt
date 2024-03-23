@@ -1,0 +1,2 @@
+D:\. File\School\ASP.net\maytinh_nguyenhuycuong\maytinh_nguyenhuycuong\obj\Debug\maytinh_nguyenhuycuong.csproj.AssemblyReference.cache
+D:\. File\School\ASP.net\maytinh_nguyenhuycuong\maytinh_nguyenhuycuong\obj\Debug\maytinh_nguyenhuycuong.csproj.CoreCompileInputs.cache

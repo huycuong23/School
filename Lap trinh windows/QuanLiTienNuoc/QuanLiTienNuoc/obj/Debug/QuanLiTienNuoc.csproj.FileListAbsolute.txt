@@ -388,3 +388,4 @@ D:\Workspace\School\Lap trinh windows\QuanLiTienNuoc\QuanLiTienNuoc\obj\Debug\Qu
 D:\Workspace\School\Lap trinh windows\QuanLiTienNuoc\QuanLiTienNuoc\obj\Debug\QuanLiTienNuoc.csproj.CopyComplete
 D:\Workspace\School\Lap trinh windows\QuanLiTienNuoc\QuanLiTienNuoc\obj\Debug\QuanLiTienNuoc.exe
 D:\Workspace\School\Lap trinh windows\QuanLiTienNuoc\QuanLiTienNuoc\obj\Debug\QuanLiTienNuoc.pdb
+D:\Workspace\School\Lap trinh windows\QuanLiTienNuoc\QuanLiTienNuoc\obj\Debug\QuanLiTienNuoc.Form2.resources

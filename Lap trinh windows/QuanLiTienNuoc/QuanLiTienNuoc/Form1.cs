@@ -20,8 +20,10 @@ namespace QuanLiTienNuoc
     {
         Class1 khach = new Class1();
         int tinh = 0;
+        int columnAdded = 0;
+        int button6Click = 0;
         public Form1()
-        {
+        {   
             InitializeComponent();
         }
 
@@ -32,6 +34,7 @@ namespace QuanLiTienNuoc
 
         private void button3_Click(object sender, EventArgs e)
         {
+            button6Click = 0;
             khachhang ob = new khachhang(textBox1.Text, textBox2.Text, textBox3.Text, textBox4.Text);
             khach.Update_Bus(ob);
             button1_Click(sender, e);
@@ -48,12 +51,18 @@ namespace QuanLiTienNuoc
         private void button1_Click(object sender, EventArgs e)
         {
             tinh = 0;
+            button6Click = 0;
             dataGridView1.DataSource = khach.Load_Bus();
             textBox6.Text = "";
+            if (columnAdded == 1)
+            {
+                dataGridView1.Columns.Remove("colunm");
+            }
         }
-
+        
         private void button2_Click(object sender, EventArgs e)
         {
+            button6Click = 0;
             khachhang ob = new khachhang(textBox1.Text , textBox2.Text , textBox3.Text, textBox4.Text);
             khach.Insert_Bus(ob);
             button1_Click(sender, e);
@@ -64,7 +73,7 @@ namespace QuanLiTienNuoc
 
         private void button4_Click(object sender, EventArgs e)
         {
-
+            button6Click = 0;
             khachhang ob = new khachhang(textBox1.Text, textBox2.Text, textBox3.Text, textBox4.Text);
             khach.Delete_Bus(ob);
             button1_Click(sender, e);
@@ -169,7 +178,7 @@ namespace QuanLiTienNuoc
                         ob.tongtien = ((somoi - socu) * dongia).ToString();
                         userList.Add(ob);
                     }
-                    // với mỗi item trong danh sách sẽ ghi trên 1 dòng
+                    // với mỗi item trong danh sách sẽ ghi trên 1 dòngbo
                     foreach (var item in userList)
                     {
                         // bắt đầu ghi từ cột 1. Excel bắt đầu từ 1 không phải từ 0
@@ -233,21 +242,36 @@ namespace QuanLiTienNuoc
 
         private void button6_Click(object sender, EventArgs e)
         {
-            tinh = 1;
-            dataGridView1.DataSource = khach.Tinh_Bus();
-            dataGridView1.Columns.Add("colunm", "tongtien");
-            for(int i = 0; i < dataGridView1.Rows.Count -1; i++)
+            button6Click++;
+            if (button6Click == 1)
             {
-                int somoi = int.Parse(dataGridView1.Rows[i].Cells[4].Value.ToString());
-                int socu = int.Parse(dataGridView1.Rows[i].Cells[5].Value.ToString());
-                int dongia = int.Parse(dataGridView1.Rows[i].Cells[6].Value.ToString().Substring(0, dataGridView1.Rows[i].Cells[6].Value.ToString().IndexOf(".")));
-                dataGridView1.Rows[i].Cells[7].Value = ((somoi - socu) * dongia).ToString();
+                tinh = 1;
+                dataGridView1.DataSource = khach.Tinh_Bus();
+                dataGridView1.Columns.Add("colunm", "tongtien");
+                columnAdded = 1;
+                for (int i = 0; i < dataGridView1.Rows.Count - 1; i++)
+                {
+                    int somoi = int.Parse(dataGridView1.Rows[i].Cells[4].Value.ToString());
+                    int socu = int.Parse(dataGridView1.Rows[i].Cells[5].Value.ToString());
+                    int dongia = int.Parse(dataGridView1.Rows[i].Cells[6].Value.ToString().Substring(0, dataGridView1.Rows[i].Cells[6].Value.ToString().IndexOf(".")));
+                    dataGridView1.Rows[i].Cells[7].Value = ((somoi - socu) * dongia).ToString();
+                }
             }
         }
 
         private void Form1_Load(object sender, EventArgs e)
         {
             textBox6.ReadOnly = true;
+        }
+
+        private void textBox4_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
         }
     }
 }

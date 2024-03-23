@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site2.master.cs" Inherits="WebApplication3.Site2" %>
+
+<%@ Register src="uc_left.ascx" tagname="uc_left" tagprefix="uc1" %>
+<%@ Register src="uc_top.ascx" tagname="uc_top" tagprefix="uc2" %>
+<%@ Register src="uc_timkiem.ascx" tagname="uc_timkiem" tagprefix="uc3" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style type="text/css">
+        .auto-style1 {
+            width: 100%;
+            height: 184px;
+        }
+        .auto-style2 {
+            height: 26px;
+            text-decoration: underline;
+        }
+        .auto-style4 {
+            width: 226px;
+        }
+        .auto-style5 {
+            width: 884px;
+        }
+    </style>
+</head>
+<body style="height: 276px">
+    <form id="form1" runat="server">
+        <table class="auto-style1">
+            <tr>
+                <td class="auto-style2" colspan="3">Ảnh*</td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    <uc2:uc_top ID="uc_top1" runat="server" />
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style4">
+                    <uc1:uc_left ID="uc_left1" runat="server" />
+                </td>
+                <td class="auto-style5">
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+                </td>
+                <td>Hình ảnh quảng cáo</td>
+            </tr>
+            <tr>
+                <td class="auto-style4">
+                    <uc3:uc_timkiem ID="uc_timkiem1" runat="server" />
+                </td>
+                <td class="auto-style5">&nbsp;</td>
+                <td>&nbsp;</td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>
